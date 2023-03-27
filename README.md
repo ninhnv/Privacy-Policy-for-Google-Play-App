@@ -1,4 +1,4 @@
-# Privacy-Policy-for-Google-Play-App
+# Privacy Policy for Google Play App
 **Privacy Policy for Google Play App**
 
 At Level Up, we are committed to protecting the privacy of our users. This Privacy Policy outlines the types of information we collect and how we use, store, and protect that information.
